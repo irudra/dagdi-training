@@ -1,4 +1,4 @@
-package gamelauncher;
+package src.gamelauncher;
 
 public class GuessGame {
 
